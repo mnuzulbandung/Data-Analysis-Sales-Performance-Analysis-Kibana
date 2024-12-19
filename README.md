@@ -7,3 +7,5 @@ Elasticsearch dan Kibana adalah salah satu tool untuk analisis karena kemampuann
 Maka dari itu, project ini bertujuan untuk melakukan Sales Performance Analysis menggunakan database Elasticsearch dan dashboard Kibana. Project ini menggunakan data e-commerce dengan sumber di bawah.
 
 Data: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
+Dashboard dan Presentasi: https://drive.google.com/drive/folders/1zoSEYi5OpOShjWoOOCbGm4PMiHaALoc6?usp=sharing
